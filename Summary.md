@@ -1,0 +1,1 @@
+In this lab, we explored the Buffer overflow vulnerability. We ran shellcode, exploited the buffer overflow vulnerability, defeated the dash's countermeasure, defeated the address randomization, turned on the stack guard protection and nonexecutable stack protection.
